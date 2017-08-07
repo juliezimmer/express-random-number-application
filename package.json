@@ -1,0 +1,23 @@
+{
+  "name": "express-random-number-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juliezimmer/express-random-number-application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juliezimmer/express-random-number-application/issues"
+  },
+  "homepage": "https://github.com/juliezimmer/express-random-number-application#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  }
+}
